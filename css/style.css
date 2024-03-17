@@ -237,6 +237,7 @@ header .intro-text {
 }
 #about .about-text {
 	padding: 80px 0;
+	text-align: center;
 }
 #about .about-img {
 	background: #f6f6f6 url(../img/test2.png) left center no-repeat;
